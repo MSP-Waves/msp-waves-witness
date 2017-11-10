@@ -1,5 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to MSP-WAVES Witness Pages
 
+It is the primary purpose of establishing a Steemit.com witness to finance the operations of MSP Waves radio. This includes
+
+Software licenses
+Royalty fees
+Server/VPS cost
+Hardware for providing MSP Waves Services (staff only)
+Marketing
+DJ Rewards
+Show promotions and contests
+Donations to staff
+___
 You can use the [editor on GitHub](https://github.com/MSP-Waves/msp-waves-witness/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
